@@ -90,4 +90,4 @@ pygame.quit()
 
 * Arrow key controls (left/right)
 * One falling enemy block
-* Ends game when you collide with the enemy
+* Ends game when you collide with the enemys
